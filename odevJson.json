@@ -39,7 +39,7 @@
         "yemek_id":4,
         "yemak_adi":"Salla",
         "yemek_aciklama":"Bos",
-        "yemek_tur"="yok",
+        "yemek_tur":"yok",
         "yemek_pisirme_suresi":"Yok",
         "yemek_hazirlama_suresi":"Kemal",
         "yemek_kisi_sayısı":"kemal",
