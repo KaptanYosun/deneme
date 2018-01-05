@@ -2,9 +2,9 @@
     { 
         "yemek_id":1,
         "yemak_adi":"Salla",
-        "yemek_aciklama"="Bos",
-        "yemek_tur"="yok",
-        "yemek_pisirme_suresi"="Yok",
+        "yemek_aciklama":"Bos",
+        "yemek_tur":"yok",
+        "yemek_pisirme_suresi":"Yok",
         "yemek_hazirlama_suresi":"Kemal",
         "yemek_kisi_sayısı":"kemal",
         "yemek_resim":"kemal",
